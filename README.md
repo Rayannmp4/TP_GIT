@@ -1,1 +1,5 @@
 # TP_GIT
+
+Alexandre DE TRINDADE
+Mohamed HASSAN
+Rayann GIBOIRE
