@@ -17,13 +17,10 @@ main {
 section {
   margin-bottom: 30px;
   padding: 15px;
-<<<<<<< HEAD
   border: 1px solid black;
-  border-radius: 20px
-=======
+  border-radius: 20px;
   border: 4px solid black;
   border-style: dotted;
->>>>>>> 9be4c2de536def7b69a1650bc6d9f824b390fdc2
 }
 
 h2 {
